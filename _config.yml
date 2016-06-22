@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I have legitimately zero idea what I'm doing. Pls no one ever see this.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: @meggmuldoon
+insta_username: meggmuldoon
 github_username:  megmuldoon
 
 # Build settings
