@@ -8,5 +8,7 @@ Hey y'all... JOKING HOPEFULLY NO ONE EVER SEES THIS EMBARASSMENT
 
 Go checkout [Google] to see a better site... Or like honestly [Club Penguin].
 
+At least I have links :) 
+
 [Google]: http://www.google.com
 [Club Penguin]: http://www.clubpenguin.com
