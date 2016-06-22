@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2016-06-22 01:15:17 -0400
-categories: jekyll update
+date:   2016-06-22 01:15:17
+categories: Nothing 
 ---
 Hey y'all... JOKING HOPEFULLY NO ONE EVER SEES THIS EMBARASSMENT
 
