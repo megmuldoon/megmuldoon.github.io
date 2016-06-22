@@ -8,5 +8,5 @@ Hey y'all... JOKING HOPEFULLY NO ONE EVER SEES THIS EMBARASSMENT
 
 Go checkout [Google] to see a better site... Or like honestly [Club Penguin].
 
-[Google]: (http://google.com/)
-[Club Penguin]: (http://clubpenguin.com/)
+[Google]: http://www.google.com
+[Club Penguin]: http://www.clubpenguin.com
