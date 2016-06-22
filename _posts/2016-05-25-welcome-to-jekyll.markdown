@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World"
+title:  "Just go to Club Penguin"
 date:   2016-06-22 01:15:17
 categories: Nothing 
 ---
